@@ -1,7 +1,7 @@
 # piracy-megathread
 
 
-##**Narzędzia:**
+**Narzędzia:**
 
 **AdBlockery, Rozszerzenia i Bypassy:**
 
